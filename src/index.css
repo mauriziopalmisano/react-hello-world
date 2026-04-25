@@ -30,12 +30,12 @@ body {
 
 .bg-img-head {
     background-image:
-        url('/img/wall.png');
+        url('/src/assets/wall.png');
 }
 
 .bg-img-main {
     background-image:
-        url('/img/cork.png');
+        url('/src/assets/cork.png');
 }
 
 .bg-set {
